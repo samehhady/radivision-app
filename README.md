@@ -1,12 +1,7 @@
 ## Available Scripts
 
-Install all dependencies
+2 Folders available, one for front-end & 1 for back-end
 
-### `npm install`
+Each run on different port and you need to run both at the same time
 
-Run server with
-
-### `node server`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+Ports used are: 3000 & 3001
